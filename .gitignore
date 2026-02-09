@@ -1,2 +1,7 @@
 
 .DS_Store
+
+# Ignore Office / Excel temporary files that start with ~$
+~$*
+
+.vscode/
